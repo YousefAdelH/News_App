@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
         builder: (context, state) {
           final darkModeCubit = DarkModeBloc.get(context);
           return MaterialApp(
-            title: 'Michael app',
+            title: 'Yousef app',
             //showPerformanceOverlay: true,
             debugShowCheckedModeBanner: false,
             themeMode:
